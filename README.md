@@ -46,7 +46,7 @@ The Vision Transformer (ViT) applies the Transformer architecture directly to im
 
 You can clone the repository using:
 
-`git clone https://github.com/your-username/Vision_Transformer-ViT-Image_Classification.git`
+`(https://github.com/codebuddyjr/Vision_Transformer-ViT-Image_Classification.git)`
 
 
 ---
